@@ -34,7 +34,7 @@ They are not used or needed when building with CMake and idf.py.
 # แนวทางการทำงาน ESP32_ESP-IDF_WiFi-STA cook book 2
 ### 1.ระบุตัวอย่างที่ใช้ ว่าเอามาจากตัวอย่างไหน
  ![image](https://github.com/user-attachments/assets/3fe42a91-f4c6-4e0b-acb1-eb19f0c37037)
-### 2.2. ระบุว่า จะแก้ไขตรงไหนบ้าง เพื่ออะไร
+### 2.ระบุว่า จะแก้ไขตรงไหนบ้าง เพื่ออะไร
 สร้างไฟล์ที่ชื่อว่า idf_component.yml ที่ Folder main แล้วใส่ข้อมูลในไฟล์ดังภาพ
 ![image](https://github.com/user-attachments/assets/05013342-a471-46c7-a2fa-a183eb171edb)
 
